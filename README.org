@@ -1,1 +1,5 @@
-* A Crash Course in Clojure.
+* Functional Programming With Clojure
+
+The code for the Week 1 exercise, playing around with the Spotify API.
+
+

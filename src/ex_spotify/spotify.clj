@@ -1,4 +1,4 @@
-(ns crash-course-clojure.spotify
+(ns ex-spotify.spotify
   (:require [clj-http.client :as http]
             [cheshire.core :refer [parse-string]]
             [clojure.pprint :refer [pprint]]))
