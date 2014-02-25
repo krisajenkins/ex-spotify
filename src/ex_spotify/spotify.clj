@@ -1,5 +1,6 @@
 (ns ex-spotify.spotify
   (:require [clj-http.client :as http]
+            [clojure.edn :as edn]
             [cheshire.core :refer [parse-string]]
             [clojure.pprint :refer [pprint]]))
 
